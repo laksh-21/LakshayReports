@@ -18,9 +18,9 @@ repositories {
 
 dependencies {
     implementation(compose.desktop.currentOs)
-    implementation("org.codehaus.groovy:groovy-all:3.0.8")
-    implementation("org.apache.poi:poi:5.2.0")
-    implementation("org.apache.poi:poi-ooxml:5.2.0")
+    implementation("org.codehaus.groovy:groovy-all:3.0.10")
+    implementation("org.apache.poi:poi:5.2.2")
+    implementation("org.apache.poi:poi-ooxml:5.2.2")
 }
 
 tasks.withType<KotlinCompile> {
