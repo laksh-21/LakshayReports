@@ -1,0 +1,31 @@
+<xml-fragment
+        xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:o="urn:schemas-microsoft-com:office:office"
+        xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+        xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+        xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+        xmlns:w10="urn:schemas-microsoft-com:office:word"
+        xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+        xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+        xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+        xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+        xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+        xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 wp14">
+    <w:nsid w:val="1656060D" />
+    <w:multiLevelType w:val="hybridMultilevel" />
+    <w:tmpl w:val="99FCFC1A" />
+    <w:lvl w:ilvl="0" w:tplc="0409000F" xmlns="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+        <w:start main:val="1" xmlns:main="http://schemas.openxmlformats.org/wordprocessingml/2006/main"/>
+        <w:numFmt main:val="bullet" xmlns:main="http://schemas.openxmlformats.org/wordprocessingml/2006/main"/>
+        <w:lvlText main:val="•" xmlns:main="http://schemas.openxmlformats.org/wordprocessingml/2006/main"/>
+        <w:pPr>
+            <w:ind main:hanging="360" main:left="720" xmlns:main="http://schemas.openxmlformats.org/wordprocessingml/2006/main"/>
+        </w:pPr>
+        <w:rPr>
+            <w:rFonts main:ascii="Symbol" main:hAnsi="Symbol" xmlns:main="http://schemas.openxmlformats.org/wordprocessingml/2006/main"/>
+        </w:rPr>
+    </w:lvl>
+</xml-fragment>
